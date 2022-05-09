@@ -36,7 +36,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example Navigation Pane](./Website/Screenshots/website.jpg)
+![Example Navigation Pane](./Screenshots/website.jpg)
 
 
 
