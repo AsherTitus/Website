@@ -5,4 +5,5 @@
 ##### You can see me website at the following URL: https://ashertitus.com/
 
 # Screenshots
-![Screenshot](website.g)
+/Users/ashertitus/Downloads/Digital Project Management/Screenshots/website.jpg
+
