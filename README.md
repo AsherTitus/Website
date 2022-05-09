@@ -30,8 +30,7 @@
 
 
 ## Features
-List the ready features here:
-- The menu allows the viewer to go directly to teh topic they choose.
+- The menu allows the viewer to go directly to the topic they choose.
 - My LinkedIn and GitHub are attach that will go directly to my profile is clicked.
 
 
