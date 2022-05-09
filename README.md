@@ -5,6 +5,6 @@
 ##### You can see me website at the following URL: https://ashertitus.com/
 
 # Screenshots
-![Example Navigation Pane](/Users/ashertitus/Desktop/Website/Screenshots)
+![Example Top Page](/Users/ashertitus/Desktop/Website/Screenshots)
 
 
